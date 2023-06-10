@@ -1,4 +1,4 @@
-
+![img](../ViktorTkachev/img/Gerry48.jpg)
 
 <h1 align="center">
   Hi there, I'm Viktor!
@@ -7,6 +7,3 @@
 <h3 align="center">
   I have worked as a QA engineer. Now I'm learning React.
 </h3>
-
-HHHHHHHH
-===
