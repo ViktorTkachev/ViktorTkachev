@@ -1,4 +1,4 @@
-![img](./img/Gerry49.jpg)
+![img](./img/Gerry49.jpeg)
 
 <h1 align="center">
   Hi there, I'm Viktor!
