@@ -1,4 +1,4 @@
-![img](../ViktorTkachev/img/Gerry48.jpg)
+![img](./img/Gerry49.jpg)
 
 <h1 align="center">
   Hi there, I'm Viktor!
