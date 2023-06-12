@@ -48,14 +48,14 @@ During those years, I also had the opportunity to travel the world. I visited 20
 ## My portfolio
 
 #### QA Testing:
-- [TestCases](https://github.com/DanyaLiupinin/movies-explorer-frontend)
-- [CheckList](https://github.com/DanyaLiupinin/movies-explorer-frontend)
-- [BugReports](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+- [TestCases](https://github.com/ViktorTkachev/QA-Tests/tree/main/TestCases)
+- [CheckList](https://github.com)
+- [BugReports](https://github.com)
 
 #### Web Development:
-- [HTML/CSS](https://github.com/DanyaLiupinin/movies-explorer-frontend)
-- [JavaScript](https://github.com/DanyaLiupinin/movies-explorer-frontend)
-- [React](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+- [HTML/CSS](https://github.com)
+- [JavaScript](https://github.com)
+- [React](https://github.com)
 
 ## Contact me
 [![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/@mrgnev-090909?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/mrgnev)
