@@ -5,7 +5,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
-  I have worked as a QA engineer. Now I'm learning React.
+  I'm a QA engineer. And now I'm learning React.
 </h3>
 
 ## About me
@@ -21,6 +21,7 @@ During those years, I also had the opportunity to travel the world. I visited 20
 Stack:
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=data:./img/)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
@@ -36,10 +37,11 @@ Stack:
 
 Stack:
 
-![JS](https://img.shields.io/badge/-JavaScript-87CEFA?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-4682B4?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/-HTML-1E90FF?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-6495ED?style=for-the-badge&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Node.js-7B68EE?style=for-the-badge&logo=Node.js)
-![Webpack](https://img.shields.io/badge/-Webpack-00CED1?style=for-the-badge&logo=Webpack)
-![typescript](https://img.shields.io/badge/-Typescript-20B2AA?style=for-the-badge&logo=typescript)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Nodejs](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
+![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
