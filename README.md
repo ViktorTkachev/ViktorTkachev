@@ -11,9 +11,9 @@
 ## About me
 Hello eweryone, this is my introduction post! 👋🏻
 
-I graduated from MEPhI (National Research Nuclear University) and worked as an engineer for 7 years in prominent companies like Rosatom, Criogaz, and Metrostroi.
+I graduated from MEPhI (National Research Nuclear University) and worked as an engineer for 7 years in a big famous companies like Rosatom, Criogaz, and Metrostroi.
 
-During those years, I also had the opportunity to travel the world. I visited 20 countries, lived in Europe and America. I got to see the kind of life I aspired to. That's why, one day, I made the decision that I wasn't ready to spend my days working in a job that didn't offer me personal growth. I quit my job and started exploring the IT sector.
+During those years, I also had the opportunity to travel the world. I visited 20 countries, lived in Europe and America. I got to see the kind of life I aspired to. That's why, one day, I made the decision that I wasn't ready to spend my time working in a job that didn't offer me personal growth. I quit my job and started exploring the IT sector.
 
 ## My education
 - `QA Testing` - by by Artsiom Rusau. 2023.
@@ -46,4 +46,16 @@ During those years, I also had the opportunity to travel the world. I visited 20
 ![Jest](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=jest)
 
 ## Contact me
-[![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/Telegram-red?style=flat&logo=telegram)](https://t.me/mrgnev)
+[![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/@mrgnev-090909?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/mrgnev)
+
+## My portfolio
+
+#### QA Testing:
+- [TestCases](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+- [CheckList](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+- [BugReports](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+
+#### Web Development:
+- [HTML/CSS](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+- [JavaScript](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+- [React](https://github.com/DanyaLiupinin/movies-explorer-frontend)
