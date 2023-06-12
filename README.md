@@ -45,9 +45,6 @@ During those years, I also had the opportunity to travel the world. I visited 20
 ![Babel](https://img.shields.io/badge/Babel-090909?style=for-the-badge&logo=babel)
 ![Jest](https://img.shields.io/badge/Jest-090909?style=for-the-badge&logo=jest)
 
-## Contact me
-[![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/@mrgnev-090909?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/mrgnev)
-
 ## My portfolio
 
 #### QA Testing:
@@ -59,3 +56,6 @@ During those years, I also had the opportunity to travel the world. I visited 20
 - [HTML/CSS](https://github.com/DanyaLiupinin/movies-explorer-frontend)
 - [JavaScript](https://github.com/DanyaLiupinin/movies-explorer-frontend)
 - [React](https://github.com/DanyaLiupinin/movies-explorer-frontend)
+
+## Contact me
+[![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/@mrgnev-090909?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/mrgnev)
