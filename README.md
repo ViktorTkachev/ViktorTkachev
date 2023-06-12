@@ -49,7 +49,7 @@ During those years, I also had the opportunity to travel the world. I visited 20
 
 #### QA Testing:
 - [TestCases](https://github.com/ViktorTkachev/QA-Tests/tree/main/TestCases)
-- [CheckList](https://github.com)
+- [CheckList](https://github.com/ViktorTkachev/QA-Tests/tree/main/CheckLists)
 - [BugReports](https://github.com)
 
 #### Web Development:
