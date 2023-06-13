@@ -53,9 +53,9 @@ During those years, I also had the opportunity to travel the world. I visited 20
 - [BugReports](https://github.com/ViktorTkachev/QA-Tests/tree/main/BugReports)
 
 #### Web Development:
-- [HTML/CSS](https://github.com/ViktorTkachev)
-- [JavaScript](https://github.com/ViktorTkachev)
-- [React](https://github.com/ViktorTkachev)
+- [HTML/CSS](https://github.com/ViktorTkachev?tab=repositories)
+- [JavaScript](https://github.com/ViktorTkachev?tab=repositories)
+- [React](https://github.com/ViktorTkachev?tab=repositories)
 
 ## Contact me
 [![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/@mrgnev-090909?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/mrgnev)
