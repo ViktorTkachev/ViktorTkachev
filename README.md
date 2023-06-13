@@ -13,7 +13,7 @@ Hello eweryone, this is my introduction post! 👋🏻
 
 I graduated from MEPhI (National Research Nuclear University) and worked as an engineer for 7 years in a big famous companies like Rosatom, Cryogas, and Metrostroi.
 
-During those years, I also had the opportunity to travel the world. I visited 20 countries, lived in Europe and America. I got to see the kind of life I aspired to. That's why, one day, I made the decision that I wasn't ready to spend my time working in a job that didn't offer me personal growth. I quit my job and started exploring the IT sector.
+During those years, I also had the opportunity to travel the world. I visited 20 countries, lived in Europe and USA. I got to see the kind of life I aspired to. That's why, one day, I made the decision that I wasn't ready to spend my time working in a job that didn't offer me personal growth. I quit my job and started exploring the IT sector.
 
 ## My education
 - `QA Testing` - by by Artsiom Rusau. 2023.
