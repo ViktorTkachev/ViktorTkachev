@@ -5,7 +5,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
-  I'm a QA engineer. And now I'm learning React.
+  I'm a QA engineer. And now I'm learning automated testing.
 </h3>
 
 ## About me
