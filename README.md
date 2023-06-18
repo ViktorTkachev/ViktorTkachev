@@ -32,10 +32,9 @@ During those years, I also had the opportunity to travel the world. I visited 20
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
 
-- `Web development` - by Netology.ru. 2022 - now.
+- `QA automated testing` - by Netology.ru. 2023 - now.
 
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
