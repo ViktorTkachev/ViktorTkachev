@@ -53,7 +53,7 @@ During those years, I also had the opportunity to travel the world. I visited 20
 
 #### Automated testing:
 - [HTML/CSS](https://github.com/ViktorTkachev/html-css/blob/main/html-css-portfolio/README.md)
-- [JavaScript Unit tests](https://github.com/ViktorTkachev?tab=repositories) Still processing
+- [JavaScript Unit tests](https://github.com/ViktorTkachev/html-css/blob/main/javascript-portfolio/README.md)
 
 ## Contact me
 [![LinkedIn Badge](https://img.shields.io/badge/-@ViktorTkachev-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/viktor-tkachev/) [![Telegram](https://img.shields.io/badge/@mrgnev-090909?style=flat&logo=telegram&logoColor=26A5E4)](https://t.me/mrgnev)
