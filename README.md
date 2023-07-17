@@ -48,6 +48,7 @@ Hello eweryone, I'm glad to welcome you to my page! Here, I provide examples of 
 - [BugReports](https://github.com/ViktorTkachev/QA-Tests/tree/main/BugReports)
 - [Postman testing API](https://github.com/ViktorTkachev/QA-Tests/blob/main/Postman/README.md)
 - [Capturing requests via Interceptor in Postman](https://github.com/ViktorTkachev/QA-Tests/blob/main/Postman%20interceptor/README.md)
+- [MySQL Workbench database queries](https://github.com/ViktorTkachev/QA-Tests/tree/main/MySQL)
 
 #### Automated testing:
 - [HTML/CSS](https://github.com/ViktorTkachev/html-css/blob/main/html-css-portfolio/README.md)
