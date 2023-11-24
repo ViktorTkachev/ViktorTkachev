@@ -5,11 +5,11 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
-  I'm a QA engineer. And now I'm learning automated testing.
+  I'm a UX/UI Designer and Web Developer.
 </h3>
 
 ## About me
-Hello eweryone, I'm glad to welcome you to my page! Here, I provide examples of my works and projects in the field of QA testing. My goal is to constantly develop and deepen my skills in test automation, and I will share my new achievements and successes in this area.
+Hello eweryone, I'm glad to welcome you to my page! Here, I provide examples of my works and projects in the field of makinkg premium websites. My goal is to constantly develop and deepen my skills in front-end developing, and I will share my new achievements and successes in this area.
 
 ## My education
 - `QA Testing` - by by Artsiom Rusau. 2023.
